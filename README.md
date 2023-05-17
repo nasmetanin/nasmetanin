@@ -1,16 +1,38 @@
-### Hi there 👋
+# Nikita Smetanin 👨🏼‍💻
 
-<!--
-**nasmetanin/nasmetanin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm a software developer at 35FIT, based in Tallinn, Estonia 🇪🇪
 
-Here are some ideas to get you started:
+📈 Experience: +2 years <br>
+🔭 I’m currently working on unnamed cloud service (health tech industry) <br>
+🌱 I’m currently learning Dart / Flutter <br>
+📫 How to reach me: nikita@35fit.com <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack 📚
+
+I do both frontend and backend, so I have lots of instruments I work with (including technologies and programming languages). 
+
+### Frontend
+
+- HTML, CSS, JS
+- Vue.js
+- Nuxt
+
+### Backend
+
+- Ruby / Ruby on Rails
+- Node.js
+- Python
+
+### App development
+
+- Swift
+- Dart / Flutter
+
+### Databases
+
+- PostgreSQL
+- MongoDB
+
+---
+
+### 📫 Hire me for a project: nikita@35fit.com 
