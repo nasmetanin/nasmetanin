@@ -1,4 +1,4 @@
-# Nikita Smetanin 👨🏼‍💻
+# About me 👨🏼‍💻
 
 Hi! I'm a software developer at 35FIT, based in Tallinn, Estonia 🇪🇪
 
