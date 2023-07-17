@@ -35,4 +35,4 @@ I do both frontend and backend, so I have lots of instruments I work with (inclu
 
 ---
 
-### 📫 Hire me for a project: nikita@35fit.com 
+### 📫 Hire me for a project: nikita@nsweb.tech
