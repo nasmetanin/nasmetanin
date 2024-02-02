@@ -14,14 +14,13 @@ I do both frontend and backend, so I have lots of instruments I work with (inclu
 ### Frontend
 
 - HTML, CSS, JS/TS
-- Vue.js
-- Nuxt
+- Vue.js / Nuxt 3
+- React / Next.js
 
 ### Backend
 
 - Ruby / Ruby on Rails
 - Node.js
-- Python
 
 ### App development
 
