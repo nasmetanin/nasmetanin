@@ -1,9 +1,6 @@
 # About me 👨🏼‍💻
 
-Hi! I'm a software developer at 35FIT, based in Tallinn, Estonia 🇪🇪
-
 📈 Experience: 3 years <br>
-🔭 I’m currently working on unnamed cloud service (health tech industry) <br>
 🌱 I’m currently learning Dart / Flutter <br>
 📫 How to reach me: nikita@nsweb.tech <br>
 
