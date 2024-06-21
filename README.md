@@ -13,6 +13,7 @@ I do both frontend and backend, so I have lots of instruments I work with (inclu
 - HTML, CSS, JS/TS
 - Vue.js / Nuxt 3
 - React / Next.js
+- Stencil.js (Native web components)
 
 ### Backend
 
