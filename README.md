@@ -2,7 +2,7 @@
 
 📈 Experience: 3 years <br>
 🌱 I’m currently learning Dart / Flutter <br>
-📫 How to reach me: nikita@nsweb.tech <br>
+📫 How to reach me: nikita@nsweb.dev <br>
 
 ## Stack 📚
 
@@ -32,4 +32,4 @@ I do both frontend and backend, so I have lots of instruments I work with (inclu
 
 ---
 
-### 📫 Hire me for a project: nikita@nsweb.tech
+### 📫 Hire me for a project: nikita@nsweb.dev
