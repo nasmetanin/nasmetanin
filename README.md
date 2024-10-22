@@ -1,12 +1,11 @@
 # About me 👨🏼‍💻
 
 📈 Experience: 3 years <br>
-🌱 I’m currently learning Dart / Flutter <br>
 📫 How to reach me: nikita@nsweb.dev <br>
 
 ## Stack 📚
 
-I do both frontend and backend, so I have lots of instruments I work with (including technologies and programming languages). 
+I do both frontend and backend with the focus on frontend, so I have lots of instruments I work with (including technologies and programming languages). 
 
 ### Frontend
 
@@ -24,12 +23,7 @@ I do both frontend and backend, so I have lots of instruments I work with (inclu
 
 - Swift
 - Dart / Flutter
-
-### Databases
-
-- PostgreSQL
-- MongoDB
-
+- 
 ---
 
 ### 📫 Hire me for a project: nikita@nsweb.dev
