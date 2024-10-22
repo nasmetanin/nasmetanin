@@ -23,7 +23,6 @@ I do both frontend and backend with the focus on frontend, so I have lots of ins
 
 - Swift
 - Dart / Flutter
-- 
 ---
 
 ### 📫 Hire me for a project: nikita@nsweb.dev
