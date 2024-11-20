@@ -1,6 +1,5 @@
 # About me 👨🏼‍💻
 
-📈 Experience: 3 years <br>
 📫 How to reach me: nikita@nsweb.dev <br>
 
 ## Stack 📚
