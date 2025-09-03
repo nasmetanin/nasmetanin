@@ -1,8 +1,4 @@
-# About me 👨🏼‍💻
-
-📫 How to reach me: nikita@nsweb.dev <br>
-
-## Stack 📚
+## About me
 
 I do both frontend and backend with the focus on frontend, so I have lots of instruments I work with (including technologies and programming languages). 
 
